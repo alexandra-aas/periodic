@@ -1,6 +1,12 @@
 // Typography
-$base-font-family: $font-stack-system;
-$heading-font-family: $base-font-family;
+$base-font-family: "Univers CE 55 Medium";
+$heading-font-family: "Univers 49 Light Ultra Condense";
+$number-font-family: "Input Sans";
+
+// Font Sizes
+$base-font-size: 1rem;
+$small-font-size: $base-font-size * 0.75;
+$large-font-size: $base-font-size * 3.75;
 
 // Line height
 $base-line-height: 1.5;
@@ -18,17 +24,22 @@ $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
 
+
+$white: #fff;
+$rock-blue: #92A1BB;
+$cloud-burst: #313C4E;
+$black-pearl: #202733;
+
 // Font Colors
-$base-font-color: $dark-gray;
+$base-font-color: $rock-blue;
 $action-color: $blue;
 
 // Border
-$base-border-color: $light-gray;
+$base-border-color: #313C4E;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: #fff;
-$secondary-background-color: tint($base-border-color, 75%);
+$base-background-color: $black-pearl;
 
 // Focus
 $focus-outline-color: transparentize($action-color, 0.4);
