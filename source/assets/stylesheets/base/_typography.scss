@@ -17,8 +17,17 @@ h6 {
   margin: 0 0 $small-spacing;
 }
 
-p {
-  margin: 0 0 $small-spacing;
+p{
+  margin: 0;
+}
+
+.number {
+  @include margin(1em null null 1em);
+}
+
+.symbol {
+  line-height: 1;
+  @include margin(2.2em null 0.7);
 }
 
 a {

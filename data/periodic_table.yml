@@ -1590,460 +1590,8 @@
         - 18
         - 8
         - 2
-- number: 8
-  columns:
     - element:
-        name: Lanthanum
-        appearance: silvery white
-        atomic_mass: 138.905477
-        boil: 3737
-        category: lanthanide
-        color:
-        density: 6.162
-        discovered_by: Carl Gustaf Mosander
-        melt: 1193
-        molar_heat: 27.11
-        named_by:
-        number: 57
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Lanthanum
-        spectral_img:
-        summary: Lanthanum is a soft, ductile, silvery-white metallic chemical element with
-          symbol La and atomic number 57. It tarnishes rapidly when exposed to air and is
-          soft enough to be cut with a knife. It gave its name to the lanthanide series,
-          a group of 15 similar elements between lanthanum and lutetium in the periodic
-          table:it is also sometimes considered the first element of the 6th-period transition
-          metals.
-        symbol: La
-        xpos: 3
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 18
-        - 9
-        - 2
-    - element:
-        name: Cerium
-        appearance: silvery white
-        atomic_mass: 140.1161
-        boil: 3716
-        category: lanthanide
-        color:
-        density: 6.77
-        discovered_by: Martin Heinrich Klaproth
-        melt: 1068
-        molar_heat: 26.94
-        named_by:
-        number: 58
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Cerium
-        spectral_img:
-        summary: Cerium is a chemical element with symbol Ce and atomic number 58. It is
-          a soft, silvery, ductile metal which easily oxidizes in air. Cerium was named
-          after the dwarf planet Ceres (itself named after the Roman goddess of agriculture).
-        symbol: Ce
-        xpos: 4
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 19
-        - 9
-        - 2
-    - element:
-        name: Praseodymium
-        appearance: grayish white
-        atomic_mass: 140.907662
-        boil: 3403
-        category: lanthanide
-        color:
-        density: 6.77
-        discovered_by: Carl Auer von Welsbach
-        melt: 1208
-        molar_heat: 27.2
-        named_by:
-        number: 59
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Praseodymium
-        spectral_img:
-        summary: Praseodymium is a chemical element with symbol Pr and atomic number 59.
-          Praseodymium is a soft, silvery, malleable and ductile metal in the lanthanide
-          group. It is valued for its magnetic, electrical, chemical, and optical properties.
-        symbol: Pr
-        xpos: 5
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 21
-        - 8
-        - 2
-    - element:
-        name: Neodymium
-        appearance: silvery white
-        atomic_mass: 144.2423
-        boil: 3347
-        category: lanthanide
-        color:
-        density: 7.01
-        discovered_by: Carl Auer von Welsbach
-        melt: 1297
-        molar_heat: 27.45
-        named_by:
-        number: 60
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Neodymium
-        spectral_img:
-        summary: Neodymium is a chemical element with symbol Nd and atomic number 60. It
-          is a soft silvery metal that tarnishes in air. Neodymium was discovered in 1885
-          by the Austrian chemist Carl Auer von Welsbach.
-        symbol: Nd
-        xpos: 6
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 22
-        - 8
-        - 2
-    - element:
-        name: Promethium
-        appearance: metallic
-        atomic_mass: 145
-        boil: 3273
-        category: lanthanide
-        color:
-        density: 7.26
-        discovered_by: Chien Shiung Wu
-        melt: 1315
-        molar_heat:
-        named_by: Isotopes of promethium
-        number: 61
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Promethium
-        spectral_img:
-        summary: Promethium, originally prometheum, is a chemical element with the symbol
-          Pm and atomic number 61. All of its isotopes are radioactive; it is one of only
-          two such elements that are followed in the periodic table by elements with stable
-          forms, a distinction shared with technetium. Chemically, promethium is a lanthanide,
-          which forms salts when combined with other elements.
-        symbol: Pm
-        xpos: 7
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 23
-        - 8
-        - 2
-    - element:
-        name: Samarium
-        appearance: silvery white
-        atomic_mass: 150.362
-        boil: 2173
-        category: lanthanide
-        color:
-        density: 7.52
-        discovered_by: Lecoq de Boisbaudran
-        melt: 1345
-        molar_heat: 29.54
-        named_by:
-        number: 62
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Samarium
-        spectral_img:
-        summary: Samarium is a chemical element with symbol Sm and atomic number 62. It
-          is a moderately hard silvery metal that readily oxidizes in air. Being a typical
-          member of the lanthanide series, samarium usually assumes the oxidation state
-          +3.
-        symbol: Sm
-        xpos: 8
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 24
-        - 8
-        - 2
-    - element:
-        name: Europium
-        appearance:
-        atomic_mass: 151.9641
-        boil: 1802
-        category: lanthanide
-        color:
-        density: 5.264
-        discovered_by: Eugène-Anatole Demarçay
-        melt: 1099
-        molar_heat: 27.66
-        named_by:
-        number: 63
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Europium
-        spectral_img:
-        summary: Europium is a chemical element with symbol Eu and atomic number 63. It
-          was isolated in 1901 and is named after the continent of Europe. It is a moderately
-          hard, silvery metal which readily oxidizes in air and water.
-        symbol: Eu
-        xpos: 9
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 25
-        - 8
-        - 2
-    - element:
-        name: Gadolinium
-        appearance: silvery white
-        atomic_mass: 157.253
-        boil: 3273
-        category: lanthanide
-        color:
-        density: 7.9
-        discovered_by: Jean Charles Galissard de Marignac
-        melt: 1585
-        molar_heat: 37.03
-        named_by:
-        number: 64
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Gadolinium
-        spectral_img:
-        summary: Gadolinium is a chemical element with symbol Gd and atomic number 64. It
-          is a silvery-white, malleable and ductile rare-earth metal. It is found in nature
-          only in combined (salt) form.
-        symbol: Gd
-        xpos: 10
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 25
-        - 9
-        - 2
-    - element:
-        name: Terbium
-        appearance: silvery white
-        atomic_mass: 158.925352
-        boil: 3396
-        category: lanthanide
-        color:
-        density: 8.23
-        discovered_by: Carl Gustaf Mosander
-        melt: 1629
-        molar_heat: 28.91
-        named_by:
-        number: 65
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Terbium
-        spectral_img:
-        summary: Terbium is a chemical element with symbol Tb and atomic number 65. It is
-          a silvery-white rare earth metal that is malleable, ductile and soft enough to
-          be cut with a knife. Terbium is never found in nature as a free element, but it
-          is contained in many minerals, including cerite, gadolinite, monazite, xenotime
-          and euxenite.
-        symbol: Tb
-        xpos: 11
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 27
-        - 8
-        - 2
-    - element:
-        name: Dysprosium
-        appearance: silvery white
-        atomic_mass: 162.5001
-        boil: 2840
-        category: lanthanide
-        color:
-        density: 8.54
-        discovered_by: Lecoq de Boisbaudran
-        melt: 1680
-        molar_heat: 27.7
-        named_by:
-        number: 66
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Dysprosium
-        spectral_img:
-        summary: Dysprosium is a chemical element with the symbol Dy and atomic number 66.
-          It is a rare earth element with a metallic silver luster. Dysprosium is never
-          found in nature as a free element, though it is found in various minerals, such
-          as xenotime.
-        symbol: Dy
-        xpos: 12
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 28
-        - 8
-        - 2
-    - element:
-        name: Holmium
-        appearance: silvery white
-        atomic_mass: 164.930332
-        boil: 2873
-        category: lanthanide
-        color:
-        density: 8.79
-        discovered_by: Marc Delafontaine
-        melt: 1734
-        molar_heat: 27.15
-        named_by:
-        number: 67
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Holmium
-        spectral_img:
-        summary: Holmium is a chemical element with symbol Ho and atomic number 67. Part
-          of the lanthanide series, holmium is a rare earth element. Holmium was discovered
-          by Swedish chemist Per Theodor Cleve.
-        symbol: Ho
-        xpos: 13
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 29
-        - 8
-        - 2
-    - element:
-        name: Erbium
-        appearance: silvery white
-        atomic_mass: 167.2593
-        boil: 3141
-        category: lanthanide
-        color:
-        density: 9.066
-        discovered_by: Carl Gustaf Mosander
-        melt: 1802
-        molar_heat: 28.12
-        named_by:
-        number: 68
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Erbium
-        spectral_img:
-        summary: Erbium is a chemical element in the lanthanide series, with symbol Er and
-          atomic number 68. A silvery-white solid metal when artificially isolated, natural
-          erbium is always found in chemical combination with other elements on Earth. As
-          such, it is a rare earth element which is associated with several other rare elements
-          in the mineral gadolinite from Ytterby in Sweden, where yttrium, ytterbium, and
-          terbium were discovered.
-        symbol: Er
-        xpos: 14
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 30
-        - 8
-        - 2
-    - element:
-        name: Thulium
-        appearance: silvery gray
-        atomic_mass: 168.934222
-        boil: 2223
-        category: lanthanide
-        color:
-        density: 9.32
-        discovered_by: Per Teodor Cleve
-        melt: 1818
-        molar_heat: 27.03
-        named_by:
-        number: 69
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Thulium
-        spectral_img:
-        summary: Thulium is a chemical element with symbol Tm and atomic number 69. It is
-          the thirteenth and antepenultimate (third-last) element in the lanthanide series.
-          Like the other lanthanides, the most common oxidation state is +3, seen in its
-          oxide, halides and other compounds.
-        symbol: Tm
-        xpos: 15
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 31
-        - 8
-        - 2
-    - element:
-        name: Ytterbium
-        appearance:
-        atomic_mass: 173.0451
-        boil: 1469
-        category: lanthanide
-        color:
-        density: 6.9
-        discovered_by: Jean Charles Galissard de Marignac
-        melt: 1097
-        molar_heat: 26.74
-        named_by:
-        number: 70
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Ytterbium
-        spectral_img:
-        summary: Ytterbium is a chemical element with symbol Yb and atomic number 70. It
-          is the fourteenth and penultimate element in the lanthanide series, which is the
-          basis of the relative stability of its +2 oxidation state. However, like the other
-          lanthanides, its most common oxidation state is +3, seen in its oxide, halides
-          and other compounds.
-        symbol: Yb
-        xpos: 16
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 32
-        - 8
-        - 2
-    - element:
-        name: Lutetium
-        appearance: silvery white
-        atomic_mass: 174.96681
-        boil: 3675
-        category: lanthanide
-        color:
-        density: 9.841
-        discovered_by: Georges Urbain
-        melt: 1925
-        molar_heat: 26.86
-        named_by:
-        number: 71
-        period: 6
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Lutetium
-        spectral_img:
-        summary: Lutetium is a chemical element with symbol Lu and atomic number 71. It
-          is a silvery white metal, which resists corrosion in dry, but not in moist air.
-          It is considered the first element of the 6th-period transition metals and the
-          last element in the lanthanide series, and is traditionally counted among the
-          rare earths.
-        symbol: Lu
-        xpos: 17
-        ypos: 9
-        shells:
-        - 8
-        - 18
-        - 32
-        - 9
-        - 2
+        number: 57-71
     - element:
         name: Hafnium
         appearance: steel gray
@@ -2567,6 +2115,936 @@
         - 18
         - 8
         - 2
+    - element:
+        number: 89-103
+    - element:
+        name: Rutherfordium
+        appearance:
+        atomic_mass: 267
+        boil: 5800
+        category: transition metal
+        color:
+        density: 23.2
+        discovered_by: Joint Institute for Nuclear Research
+        melt: 2400
+        molar_heat:
+        named_by:
+        number: 104
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Rutherfordium
+        spectral_img:
+        summary: Rutherfordium is a chemical element with symbol Rf and atomic number 104,
+          named in honor of physicist Ernest Rutherford. It is a synthetic element (an element
+          that can be created in a laboratory but is not found in nature) and radioactive;
+          the most stable known isotope, 267Rf, has a half-life of approximately 1.3 hours.
+          In the periodic table of the elements, it is a d - block element and the second
+          of the fourth - row transition elements.
+        symbol: Rf
+        xpos: 4
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 10
+        - 2
+    - element:
+        name: Dubnium
+        appearance:
+        atomic_mass: 268
+        boil:
+        category: transition metal
+        color:
+        density: 29.3
+        discovered_by: Joint Institute for Nuclear Research
+        melt:
+        molar_heat:
+        named_by:
+        number: 105
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Dubnium
+        spectral_img:
+        summary: Dubnium is a chemical element with symbol Db and atomic number 105. It
+          is named after the town of Dubna in Russia (north of Moscow), where it was first
+          produced. It is a synthetic element (an element that can be created in a laboratory
+          but is not found in nature) and radioactive; the most stable known isotope, dubnium-268,
+          has a half-life of approximately 28 hours.
+        symbol: Db
+        xpos: 5
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 11
+        - 2
+    - element:
+        name: Seaborgium
+        appearance:
+        atomic_mass: 269
+        boil:
+        category: transition metal
+        color:
+        density: 35
+        discovered_by: Lawrence Berkeley National Laboratory
+        melt:
+        molar_heat:
+        named_by:
+        number: 106
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Seaborgium
+        spectral_img:
+        summary: Seaborgium is a synthetic element with symbol Sg and atomic number 106.
+          Its most stable isotope 271Sg has a half-life of 1.9 minutes. A more recently
+          discovered isotope 269Sg has a potentially slightly longer half-life (ca.
+        symbol: Sg
+        xpos: 6
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 12
+        - 2
+    - element:
+        name: Bohrium
+        appearance:
+        atomic_mass: 270
+        boil:
+        category: transition metal
+        color:
+        density: 37.1
+        discovered_by: Gesellschaft für Schwerionenforschung
+        melt:
+        molar_heat:
+        named_by:
+        number: 107
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Bohrium
+        spectral_img:
+        summary: Bohrium is a chemical element with symbol Bh and atomic number 107. It
+          is named after Danish physicist Niels Bohr. It is a synthetic element (an element
+          that can be created in a laboratory but is not found in nature) and radioactive;
+          the most stable known isotope, 270Bh, has a half-life of approximately 61 seconds.
+        symbol: Bh
+        xpos: 7
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 13
+        - 2
+    - element:
+        name: Hassium
+        appearance:
+        atomic_mass: 269
+        boil:
+        category: transition metal
+        color:
+        density: 40.7
+        discovered_by: Gesellschaft für Schwerionenforschung
+        melt: 126
+        molar_heat:
+        named_by:
+        number: 108
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Hassium
+        spectral_img:
+        summary: Hassium is a chemical element with symbol Hs and atomic number 108, named
+          after the German state of Hesse. It is a synthetic element (an element that can
+          be created in a laboratory but is not found in nature) and radioactive; the most
+          stable known isotope, 269Hs, has a half-life of approximately 9.7 seconds, although
+          an unconfirmed metastable state, 277mHs, may have a longer half-life of about
+          130 seconds. More than 100 atoms of hassium have been synthesized to date.
+        symbol: Hs
+        xpos: 8
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 14
+        - 2
+    - element:
+        name: Meitnerium
+        appearance:
+        atomic_mass: 278
+        boil:
+        category: unknown, probably transition metal
+        color:
+        density: 37.4
+        discovered_by: Gesellschaft für Schwerionenforschung
+        melt:
+        molar_heat:
+        named_by:
+        number: 109
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Meitnerium
+        spectral_img:
+        summary: Meitnerium is a chemical element with symbol Mt and atomic number 109.
+          It is an extremely radioactive synthetic element (an element not found in nature
+          that can be created in a laboratory). The most stable known isotope, meitnerium-278,
+          has a half-life of 7.6 seconds.
+        symbol: Mt
+        xpos: 9
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 15
+        - 2
+    - element:
+        name: Darmstadtium
+        appearance:
+        atomic_mass: 281
+        boil:
+        category: unknown, probably transition metal
+        color:
+        density: 34.8
+        discovered_by: Gesellschaft für Schwerionenforschung
+        melt:
+        molar_heat:
+        named_by:
+        number: 110
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Darmstadtium
+        spectral_img:
+        summary: Darmstadtium is a chemical element with symbol Ds and atomic number 110.
+          It is an extremely radioactive synthetic element. The most stable known isotope,
+          darmstadtium-281, has a half-life of approximately 10 seconds.
+        symbol: Ds
+        xpos: 10
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 16
+        - 2
+    - element:
+        name: Roentgenium
+        appearance:
+        atomic_mass: 282
+        boil:
+        category: unknown, probably transition metal
+        color:
+        density: 28.7
+        discovered_by: Gesellschaft für Schwerionenforschung
+        melt:
+        molar_heat:
+        named_by:
+        number: 111
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Roentgenium
+        spectral_img:
+        summary: Roentgenium is a chemical element with symbol Rg and atomic number 111.
+          It is an extremely radioactive synthetic element (an element that can be created
+          in a laboratory but is not found in nature); the most stable known isotope, roentgenium-282,
+          has a half-life of 2.1 minutes. Roentgenium was first created in 1994 by the GSI
+          Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany.
+        symbol: Rg
+        xpos: 11
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 17
+        - 2
+    - element:
+        name: Copernicium
+        appearance:
+        atomic_mass: 285
+        boil: 3570
+        category: transition metal
+        color:
+        density: 23.7
+        discovered_by: Gesellschaft für Schwerionenforschung
+        melt:
+        molar_heat:
+        named_by:
+        number: 112
+        period: 7
+        phase: Gas
+        source: https://en.wikipedia.org/wiki/Copernicium
+        spectral_img:
+        summary: Copernicium is a chemical element with symbol Cn and atomic number 112.
+          It is an extremely radioactive synthetic element that can only be created in a
+          laboratory. The most stable known isotope, copernicium-285, has a half-life of
+          approximately 29 seconds, but it is possible that this copernicium isotope may
+          have a nuclear isomer with a longer half-life, 8.9 min.
+        symbol: Cn
+        xpos: 12
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 18
+        - 2
+    - element:
+        name: Nihonium
+        appearance:
+        atomic_mass: 286
+        boil: 1430
+        category: unknown, probably transition metal
+        color:
+        density: 16
+        discovered_by: RIKEN
+        melt: 700
+        molar_heat:
+        named_by:
+        number: 113
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Ununtrium
+        spectral_img:
+        summary: Nihonium is a chemical element with atomic number 113. It has a symbol
+          Nh. It is a synthetic element (an element that can be created in a laboratory
+          but is not found in nature) and is extremely radioactive; its most stable known
+          isotope, nihonium-286, has a half-life of 20 seconds.
+        symbol: Nh
+        xpos: 13
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 18
+        - 3
+    - element:
+        name: Flerovium
+        appearance:
+        atomic_mass: 289
+        boil: 420
+        category: post-transition metal
+        color:
+        density: 14
+        discovered_by: Joint Institute for Nuclear Research
+        melt: 340
+        molar_heat:
+        named_by:
+        number: 114
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Flerovium
+        spectral_img:
+        summary: Flerovium is a superheavy artificial chemical element with symbol Fl and
+          atomic number 114. It is an extremely radioactive synthetic element. The element
+          is named after the Flerov Laboratory of Nuclear Reactions of the Joint Institute
+          for Nuclear Research in Dubna, Russia, where the element was discovered in 1998.
+        symbol: Fl
+        xpos: 14
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 18
+        - 4
+    - element:
+        name: Moscovium
+        appearance:
+        atomic_mass: 289
+        boil: 1400
+        category: unknown, probably post transition metal
+        color:
+        density: 13.5
+        discovered_by: Joint Institute for Nuclear Research
+        melt: 670
+        molar_heat:
+        named_by:
+        number: 115
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Ununpentium
+        spectral_img:
+        summary: Moscovium is the name of a synthetic superheavy element in the periodic
+          table that has the symbol Mc and has the atomic number 115. It is an extremely
+          radioactive element; its most stable known isotope, moscovium-289, has a half-life
+          of only 220 milliseconds. It is also known as eka-bismuth or simply element 115.
+        symbol: Mc
+        xpos: 15
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 18
+        - 5
+    - element:
+        name: Livermorium
+        appearance:
+        atomic_mass: 293
+        boil: 10351135
+        category: unknown, probably post transition metal
+        color:
+        density: 12.9
+        discovered_by: Joint Institute for Nuclear Research
+        melt: 637780
+        molar_heat:
+        named_by:
+        number: 116
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Livermorium
+        spectral_img:
+        summary: Livermorium is a synthetic superheavy element with symbol Lv and atomic
+          number 116. It is an extremely radioactive element that has only been created
+          in the laboratory and has not been observed in nature. The element is named after
+          the Lawrence Livermore National Laboratory in the United States, which collaborated
+          with the Joint Institute for Nuclear Research in Dubna, Russia to discover livermorium
+          in 2000.
+        symbol: Lv
+        xpos: 16
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 18
+        - 6
+    - element:
+        name: Tennessine
+        appearance:
+        atomic_mass: 294
+        boil: 883
+        category: unknown,probably metalloid
+        color:
+        density: 7.17
+        discovered_by: Joint Institute for Nuclear Research
+        melt: 623823
+        molar_heat:
+        named_by:
+        number: 117
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Ununseptium
+        spectral_img:
+        summary: Tennessine is a superheavy artificial chemical element with an atomic number
+          of 117 and a symbol of Ts. Also known as eka-astatine or element 117, it is the
+          second-heaviest known element and penultimate element of the 7th period of the
+          periodic table. As of 2016, fifteen tennessine atoms have been observed:six when
+          it was first synthesized in 2010, seven in 2012, and two in 2014.
+        symbol: Ts
+        xpos: 17
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 18
+        - 7
+    - element:
+        name: Oganesson
+        appearance:
+        atomic_mass: 294
+        boil: 35030
+        category: unknown, predicted to be noble gas
+        color:
+        density: 4.95
+        discovered_by: Joint Institute for Nuclear Research
+        melt:
+        molar_heat:
+        named_by:
+        number: 118
+        period: 7
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Ununoctium
+        spectral_img:
+        summary: Ooganesson is IUPAC's name for the transactinide element with the atomic
+          number 118 and element symbol Og. It is also known as eka-radon or element 118,
+          and on the periodic table of the elements it is a p-block element and the last
+          one of the 7th period. Oganesson is currently the only synthetic member of group
+          18.
+        symbol: Og
+        xpos: 18
+        ypos: 7
+        shells:
+        - 8
+        - 18
+        - 32
+        - 32
+        - 18
+        - 8
+- number: 8
+  columns:
+    - element:
+        name: Lanthanum
+        appearance: silvery white
+        atomic_mass: 138.905477
+        boil: 3737
+        category: lanthanide
+        color:
+        density: 6.162
+        discovered_by: Carl Gustaf Mosander
+        melt: 1193
+        molar_heat: 27.11
+        named_by:
+        number: 57
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Lanthanum
+        spectral_img:
+        summary: Lanthanum is a soft, ductile, silvery-white metallic chemical element with
+          symbol La and atomic number 57. It tarnishes rapidly when exposed to air and is
+          soft enough to be cut with a knife. It gave its name to the lanthanide series,
+          a group of 15 similar elements between lanthanum and lutetium in the periodic
+          table:it is also sometimes considered the first element of the 6th-period transition
+          metals.
+        symbol: La
+        xpos: 3
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 18
+        - 9
+        - 2
+    - element:
+        name: Cerium
+        appearance: silvery white
+        atomic_mass: 140.1161
+        boil: 3716
+        category: lanthanide
+        color:
+        density: 6.77
+        discovered_by: Martin Heinrich Klaproth
+        melt: 1068
+        molar_heat: 26.94
+        named_by:
+        number: 58
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Cerium
+        spectral_img:
+        summary: Cerium is a chemical element with symbol Ce and atomic number 58. It is
+          a soft, silvery, ductile metal which easily oxidizes in air. Cerium was named
+          after the dwarf planet Ceres (itself named after the Roman goddess of agriculture).
+        symbol: Ce
+        xpos: 4
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 19
+        - 9
+        - 2
+    - element:
+        name: Praseodymium
+        appearance: grayish white
+        atomic_mass: 140.907662
+        boil: 3403
+        category: lanthanide
+        color:
+        density: 6.77
+        discovered_by: Carl Auer von Welsbach
+        melt: 1208
+        molar_heat: 27.2
+        named_by:
+        number: 59
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Praseodymium
+        spectral_img:
+        summary: Praseodymium is a chemical element with symbol Pr and atomic number 59.
+          Praseodymium is a soft, silvery, malleable and ductile metal in the lanthanide
+          group. It is valued for its magnetic, electrical, chemical, and optical properties.
+        symbol: Pr
+        xpos: 5
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 21
+        - 8
+        - 2
+    - element:
+        name: Neodymium
+        appearance: silvery white
+        atomic_mass: 144.2423
+        boil: 3347
+        category: lanthanide
+        color:
+        density: 7.01
+        discovered_by: Carl Auer von Welsbach
+        melt: 1297
+        molar_heat: 27.45
+        named_by:
+        number: 60
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Neodymium
+        spectral_img:
+        summary: Neodymium is a chemical element with symbol Nd and atomic number 60. It
+          is a soft silvery metal that tarnishes in air. Neodymium was discovered in 1885
+          by the Austrian chemist Carl Auer von Welsbach.
+        symbol: Nd
+        xpos: 6
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 22
+        - 8
+        - 2
+    - element:
+        name: Promethium
+        appearance: metallic
+        atomic_mass: 145
+        boil: 3273
+        category: lanthanide
+        color:
+        density: 7.26
+        discovered_by: Chien Shiung Wu
+        melt: 1315
+        molar_heat:
+        named_by: Isotopes of promethium
+        number: 61
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Promethium
+        spectral_img:
+        summary: Promethium, originally prometheum, is a chemical element with the symbol
+          Pm and atomic number 61. All of its isotopes are radioactive; it is one of only
+          two such elements that are followed in the periodic table by elements with stable
+          forms, a distinction shared with technetium. Chemically, promethium is a lanthanide,
+          which forms salts when combined with other elements.
+        symbol: Pm
+        xpos: 7
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 23
+        - 8
+        - 2
+    - element:
+        name: Samarium
+        appearance: silvery white
+        atomic_mass: 150.362
+        boil: 2173
+        category: lanthanide
+        color:
+        density: 7.52
+        discovered_by: Lecoq de Boisbaudran
+        melt: 1345
+        molar_heat: 29.54
+        named_by:
+        number: 62
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Samarium
+        spectral_img:
+        summary: Samarium is a chemical element with symbol Sm and atomic number 62. It
+          is a moderately hard silvery metal that readily oxidizes in air. Being a typical
+          member of the lanthanide series, samarium usually assumes the oxidation state
+          +3.
+        symbol: Sm
+        xpos: 8
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 24
+        - 8
+        - 2
+    - element:
+        name: Europium
+        appearance:
+        atomic_mass: 151.9641
+        boil: 1802
+        category: lanthanide
+        color:
+        density: 5.264
+        discovered_by: Eugène-Anatole Demarçay
+        melt: 1099
+        molar_heat: 27.66
+        named_by:
+        number: 63
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Europium
+        spectral_img:
+        summary: Europium is a chemical element with symbol Eu and atomic number 63. It
+          was isolated in 1901 and is named after the continent of Europe. It is a moderately
+          hard, silvery metal which readily oxidizes in air and water.
+        symbol: Eu
+        xpos: 9
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 25
+        - 8
+        - 2
+    - element:
+        name: Gadolinium
+        appearance: silvery white
+        atomic_mass: 157.253
+        boil: 3273
+        category: lanthanide
+        color:
+        density: 7.9
+        discovered_by: Jean Charles Galissard de Marignac
+        melt: 1585
+        molar_heat: 37.03
+        named_by:
+        number: 64
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Gadolinium
+        spectral_img:
+        summary: Gadolinium is a chemical element with symbol Gd and atomic number 64. It
+          is a silvery-white, malleable and ductile rare-earth metal. It is found in nature
+          only in combined (salt) form.
+        symbol: Gd
+        xpos: 10
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 25
+        - 9
+        - 2
+    - element:
+        name: Terbium
+        appearance: silvery white
+        atomic_mass: 158.925352
+        boil: 3396
+        category: lanthanide
+        color:
+        density: 8.23
+        discovered_by: Carl Gustaf Mosander
+        melt: 1629
+        molar_heat: 28.91
+        named_by:
+        number: 65
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Terbium
+        spectral_img:
+        summary: Terbium is a chemical element with symbol Tb and atomic number 65. It is
+          a silvery-white rare earth metal that is malleable, ductile and soft enough to
+          be cut with a knife. Terbium is never found in nature as a free element, but it
+          is contained in many minerals, including cerite, gadolinite, monazite, xenotime
+          and euxenite.
+        symbol: Tb
+        xpos: 11
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 27
+        - 8
+        - 2
+    - element:
+        name: Dysprosium
+        appearance: silvery white
+        atomic_mass: 162.5001
+        boil: 2840
+        category: lanthanide
+        color:
+        density: 8.54
+        discovered_by: Lecoq de Boisbaudran
+        melt: 1680
+        molar_heat: 27.7
+        named_by:
+        number: 66
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Dysprosium
+        spectral_img:
+        summary: Dysprosium is a chemical element with the symbol Dy and atomic number 66.
+          It is a rare earth element with a metallic silver luster. Dysprosium is never
+          found in nature as a free element, though it is found in various minerals, such
+          as xenotime.
+        symbol: Dy
+        xpos: 12
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 28
+        - 8
+        - 2
+    - element:
+        name: Holmium
+        appearance: silvery white
+        atomic_mass: 164.930332
+        boil: 2873
+        category: lanthanide
+        color:
+        density: 8.79
+        discovered_by: Marc Delafontaine
+        melt: 1734
+        molar_heat: 27.15
+        named_by:
+        number: 67
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Holmium
+        spectral_img:
+        summary: Holmium is a chemical element with symbol Ho and atomic number 67. Part
+          of the lanthanide series, holmium is a rare earth element. Holmium was discovered
+          by Swedish chemist Per Theodor Cleve.
+        symbol: Ho
+        xpos: 13
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 29
+        - 8
+        - 2
+    - element:
+        name: Erbium
+        appearance: silvery white
+        atomic_mass: 167.2593
+        boil: 3141
+        category: lanthanide
+        color:
+        density: 9.066
+        discovered_by: Carl Gustaf Mosander
+        melt: 1802
+        molar_heat: 28.12
+        named_by:
+        number: 68
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Erbium
+        spectral_img:
+        summary: Erbium is a chemical element in the lanthanide series, with symbol Er and
+          atomic number 68. A silvery-white solid metal when artificially isolated, natural
+          erbium is always found in chemical combination with other elements on Earth. As
+          such, it is a rare earth element which is associated with several other rare elements
+          in the mineral gadolinite from Ytterby in Sweden, where yttrium, ytterbium, and
+          terbium were discovered.
+        symbol: Er
+        xpos: 14
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 30
+        - 8
+        - 2
+    - element:
+        name: Thulium
+        appearance: silvery gray
+        atomic_mass: 168.934222
+        boil: 2223
+        category: lanthanide
+        color:
+        density: 9.32
+        discovered_by: Per Teodor Cleve
+        melt: 1818
+        molar_heat: 27.03
+        named_by:
+        number: 69
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Thulium
+        spectral_img:
+        summary: Thulium is a chemical element with symbol Tm and atomic number 69. It is
+          the thirteenth and antepenultimate (third-last) element in the lanthanide series.
+          Like the other lanthanides, the most common oxidation state is +3, seen in its
+          oxide, halides and other compounds.
+        symbol: Tm
+        xpos: 15
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 31
+        - 8
+        - 2
+    - element:
+        name: Ytterbium
+        appearance:
+        atomic_mass: 173.0451
+        boil: 1469
+        category: lanthanide
+        color:
+        density: 6.9
+        discovered_by: Jean Charles Galissard de Marignac
+        melt: 1097
+        molar_heat: 26.74
+        named_by:
+        number: 70
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Ytterbium
+        spectral_img:
+        summary: Ytterbium is a chemical element with symbol Yb and atomic number 70. It
+          is the fourteenth and penultimate element in the lanthanide series, which is the
+          basis of the relative stability of its +2 oxidation state. However, like the other
+          lanthanides, its most common oxidation state is +3, seen in its oxide, halides
+          and other compounds.
+        symbol: Yb
+        xpos: 16
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 32
+        - 8
+        - 2
+    - element:
+        name: Lutetium
+        appearance: silvery white
+        atomic_mass: 174.96681
+        boil: 3675
+        category: lanthanide
+        color:
+        density: 9.841
+        discovered_by: Georges Urbain
+        melt: 1925
+        molar_heat: 26.86
+        named_by:
+        number: 71
+        period: 6
+        phase: Solid
+        source: https://en.wikipedia.org/wiki/Lutetium
+        spectral_img:
+        summary: Lutetium is a chemical element with symbol Lu and atomic number 71. It
+          is a silvery white metal, which resists corrosion in dry, but not in moist air.
+          It is considered the first element of the 6th-period transition metals and the
+          last element in the lanthanide series, and is traditionally counted among the
+          rare earths.
+        symbol: Lu
+        xpos: 17
+        ypos: 9
+        shells:
+        - 8
+        - 18
+        - 32
+        - 9
+        - 2
 - number: 9
   columns:
     - element:
@@ -3045,477 +3523,3 @@
         - 32
         - 8
         - 3
-    - element:
-        name: Rutherfordium
-        appearance:
-        atomic_mass: 267
-        boil: 5800
-        category: transition metal
-        color:
-        density: 23.2
-        discovered_by: Joint Institute for Nuclear Research
-        melt: 2400
-        molar_heat:
-        named_by:
-        number: 104
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Rutherfordium
-        spectral_img:
-        summary: Rutherfordium is a chemical element with symbol Rf and atomic number 104,
-          named in honor of physicist Ernest Rutherford. It is a synthetic element (an element
-          that can be created in a laboratory but is not found in nature) and radioactive;
-          the most stable known isotope, 267Rf, has a half-life of approximately 1.3 hours.
-          In the periodic table of the elements, it is a d - block element and the second
-          of the fourth - row transition elements.
-        symbol: Rf
-        xpos: 4
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 10
-        - 2
-    - element:
-        name: Dubnium
-        appearance:
-        atomic_mass: 268
-        boil:
-        category: transition metal
-        color:
-        density: 29.3
-        discovered_by: Joint Institute for Nuclear Research
-        melt:
-        molar_heat:
-        named_by:
-        number: 105
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Dubnium
-        spectral_img:
-        summary: Dubnium is a chemical element with symbol Db and atomic number 105. It
-          is named after the town of Dubna in Russia (north of Moscow), where it was first
-          produced. It is a synthetic element (an element that can be created in a laboratory
-          but is not found in nature) and radioactive; the most stable known isotope, dubnium-268,
-          has a half-life of approximately 28 hours.
-        symbol: Db
-        xpos: 5
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 11
-        - 2
-    - element:
-        name: Seaborgium
-        appearance:
-        atomic_mass: 269
-        boil:
-        category: transition metal
-        color:
-        density: 35
-        discovered_by: Lawrence Berkeley National Laboratory
-        melt:
-        molar_heat:
-        named_by:
-        number: 106
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Seaborgium
-        spectral_img:
-        summary: Seaborgium is a synthetic element with symbol Sg and atomic number 106.
-          Its most stable isotope 271Sg has a half-life of 1.9 minutes. A more recently
-          discovered isotope 269Sg has a potentially slightly longer half-life (ca.
-        symbol: Sg
-        xpos: 6
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 12
-        - 2
-    - element:
-        name: Bohrium
-        appearance:
-        atomic_mass: 270
-        boil:
-        category: transition metal
-        color:
-        density: 37.1
-        discovered_by: Gesellschaft für Schwerionenforschung
-        melt:
-        molar_heat:
-        named_by:
-        number: 107
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Bohrium
-        spectral_img:
-        summary: Bohrium is a chemical element with symbol Bh and atomic number 107. It
-          is named after Danish physicist Niels Bohr. It is a synthetic element (an element
-          that can be created in a laboratory but is not found in nature) and radioactive;
-          the most stable known isotope, 270Bh, has a half-life of approximately 61 seconds.
-        symbol: Bh
-        xpos: 7
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 13
-        - 2
-    - element:
-        name: Hassium
-        appearance:
-        atomic_mass: 269
-        boil:
-        category: transition metal
-        color:
-        density: 40.7
-        discovered_by: Gesellschaft für Schwerionenforschung
-        melt: 126
-        molar_heat:
-        named_by:
-        number: 108
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Hassium
-        spectral_img:
-        summary: Hassium is a chemical element with symbol Hs and atomic number 108, named
-          after the German state of Hesse. It is a synthetic element (an element that can
-          be created in a laboratory but is not found in nature) and radioactive; the most
-          stable known isotope, 269Hs, has a half-life of approximately 9.7 seconds, although
-          an unconfirmed metastable state, 277mHs, may have a longer half-life of about
-          130 seconds. More than 100 atoms of hassium have been synthesized to date.
-        symbol: Hs
-        xpos: 8
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 14
-        - 2
-    - element:
-        name: Meitnerium
-        appearance:
-        atomic_mass: 278
-        boil:
-        category: unknown, probably transition metal
-        color:
-        density: 37.4
-        discovered_by: Gesellschaft für Schwerionenforschung
-        melt:
-        molar_heat:
-        named_by:
-        number: 109
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Meitnerium
-        spectral_img:
-        summary: Meitnerium is a chemical element with symbol Mt and atomic number 109.
-          It is an extremely radioactive synthetic element (an element not found in nature
-          that can be created in a laboratory). The most stable known isotope, meitnerium-278,
-          has a half-life of 7.6 seconds.
-        symbol: Mt
-        xpos: 9
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 15
-        - 2
-    - element:
-        name: Darmstadtium
-        appearance:
-        atomic_mass: 281
-        boil:
-        category: unknown, probably transition metal
-        color:
-        density: 34.8
-        discovered_by: Gesellschaft für Schwerionenforschung
-        melt:
-        molar_heat:
-        named_by:
-        number: 110
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Darmstadtium
-        spectral_img:
-        summary: Darmstadtium is a chemical element with symbol Ds and atomic number 110.
-          It is an extremely radioactive synthetic element. The most stable known isotope,
-          darmstadtium-281, has a half-life of approximately 10 seconds.
-        symbol: Ds
-        xpos: 10
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 16
-        - 2
-    - element:
-        name: Roentgenium
-        appearance:
-        atomic_mass: 282
-        boil:
-        category: unknown, probably transition metal
-        color:
-        density: 28.7
-        discovered_by: Gesellschaft für Schwerionenforschung
-        melt:
-        molar_heat:
-        named_by:
-        number: 111
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Roentgenium
-        spectral_img:
-        summary: Roentgenium is a chemical element with symbol Rg and atomic number 111.
-          It is an extremely radioactive synthetic element (an element that can be created
-          in a laboratory but is not found in nature); the most stable known isotope, roentgenium-282,
-          has a half-life of 2.1 minutes. Roentgenium was first created in 1994 by the GSI
-          Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany.
-        symbol: Rg
-        xpos: 11
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 17
-        - 2
-    - element:
-        name: Copernicium
-        appearance:
-        atomic_mass: 285
-        boil: 3570
-        category: transition metal
-        color:
-        density: 23.7
-        discovered_by: Gesellschaft für Schwerionenforschung
-        melt:
-        molar_heat:
-        named_by:
-        number: 112
-        period: 7
-        phase: Gas
-        source: https://en.wikipedia.org/wiki/Copernicium
-        spectral_img:
-        summary: Copernicium is a chemical element with symbol Cn and atomic number 112.
-          It is an extremely radioactive synthetic element that can only be created in a
-          laboratory. The most stable known isotope, copernicium-285, has a half-life of
-          approximately 29 seconds, but it is possible that this copernicium isotope may
-          have a nuclear isomer with a longer half-life, 8.9 min.
-        symbol: Cn
-        xpos: 12
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 18
-        - 2
-    - element:
-        name: Nihonium
-        appearance:
-        atomic_mass: 286
-        boil: 1430
-        category: unknown, probably transition metal
-        color:
-        density: 16
-        discovered_by: RIKEN
-        melt: 700
-        molar_heat:
-        named_by:
-        number: 113
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Ununtrium
-        spectral_img:
-        summary: Nihonium is a chemical element with atomic number 113. It has a symbol
-          Nh. It is a synthetic element (an element that can be created in a laboratory
-          but is not found in nature) and is extremely radioactive; its most stable known
-          isotope, nihonium-286, has a half-life of 20 seconds.
-        symbol: Nh
-        xpos: 13
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 18
-        - 3
-    - element:
-        name: Flerovium
-        appearance:
-        atomic_mass: 289
-        boil: 420
-        category: post-transition metal
-        color:
-        density: 14
-        discovered_by: Joint Institute for Nuclear Research
-        melt: 340
-        molar_heat:
-        named_by:
-        number: 114
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Flerovium
-        spectral_img:
-        summary: Flerovium is a superheavy artificial chemical element with symbol Fl and
-          atomic number 114. It is an extremely radioactive synthetic element. The element
-          is named after the Flerov Laboratory of Nuclear Reactions of the Joint Institute
-          for Nuclear Research in Dubna, Russia, where the element was discovered in 1998.
-        symbol: Fl
-        xpos: 14
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 18
-        - 4
-    - element:
-        name: Moscovium
-        appearance:
-        atomic_mass: 289
-        boil: 1400
-        category: unknown, probably post transition metal
-        color:
-        density: 13.5
-        discovered_by: Joint Institute for Nuclear Research
-        melt: 670
-        molar_heat:
-        named_by:
-        number: 115
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Ununpentium
-        spectral_img:
-        summary: Moscovium is the name of a synthetic superheavy element in the periodic
-          table that has the symbol Mc and has the atomic number 115. It is an extremely
-          radioactive element; its most stable known isotope, moscovium-289, has a half-life
-          of only 220 milliseconds. It is also known as eka-bismuth or simply element 115.
-        symbol: Mc
-        xpos: 15
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 18
-        - 5
-    - element:
-        name: Livermorium
-        appearance:
-        atomic_mass: 293
-        boil: 10351135
-        category: unknown, probably post transition metal
-        color:
-        density: 12.9
-        discovered_by: Joint Institute for Nuclear Research
-        melt: 637780
-        molar_heat:
-        named_by:
-        number: 116
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Livermorium
-        spectral_img:
-        summary: Livermorium is a synthetic superheavy element with symbol Lv and atomic
-          number 116. It is an extremely radioactive element that has only been created
-          in the laboratory and has not been observed in nature. The element is named after
-          the Lawrence Livermore National Laboratory in the United States, which collaborated
-          with the Joint Institute for Nuclear Research in Dubna, Russia to discover livermorium
-          in 2000.
-        symbol: Lv
-        xpos: 16
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 18
-        - 6
-    - element:
-        name: Tennessine
-        appearance:
-        atomic_mass: 294
-        boil: 883
-        category: unknown,probably metalloid
-        color:
-        density: 7.17
-        discovered_by: Joint Institute for Nuclear Research
-        melt: 623823
-        molar_heat:
-        named_by:
-        number: 117
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Ununseptium
-        spectral_img:
-        summary: Tennessine is a superheavy artificial chemical element with an atomic number
-          of 117 and a symbol of Ts. Also known as eka-astatine or element 117, it is the
-          second-heaviest known element and penultimate element of the 7th period of the
-          periodic table. As of 2016, fifteen tennessine atoms have been observed:six when
-          it was first synthesized in 2010, seven in 2012, and two in 2014.
-        symbol: Ts
-        xpos: 17
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 18
-        - 7
-    - element:
-        name: Oganesson
-        appearance:
-        atomic_mass: 294
-        boil: 35030
-        category: unknown, predicted to be noble gas
-        color:
-        density: 4.95
-        discovered_by: Joint Institute for Nuclear Research
-        melt:
-        molar_heat:
-        named_by:
-        number: 118
-        period: 7
-        phase: Solid
-        source: https://en.wikipedia.org/wiki/Ununoctium
-        spectral_img:
-        summary: Ooganesson is IUPAC's name for the transactinide element with the atomic
-          number 118 and element symbol Og. It is also known as eka-radon or element 118,
-          and on the periodic table of the elements it is a p-block element and the last
-          one of the 7th period. Oganesson is currently the only synthetic member of group
-          18.
-        symbol: Og
-        xpos: 18
-        ypos: 7
-        shells:
-        - 8
-        - 18
-        - 32
-        - 32
-        - 18
-        - 8

@@ -5,6 +5,49 @@ ol {
   padding: 0;
 }
 
+.periodic-row {
+  display: flex;
+
+  &:first-of-type{
+     li:nth-of-type(2) {
+       margin-left: auto;
+     }
+  }
+
+  &:nth-of-type(2),
+  &:nth-of-type(3) {
+    .periodic-element:nth-of-type(3) {
+      margin-left: auto;
+    }
+  }
+}
+
+.periodic-element {
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% / 18);
+}
+
+.number,
+.name,
+.atomic-mass {
+  font-size: 1.2em;
+}
+
+.atomic-mass,
+.symbol-and-name {
+  text-align: center
+}
+
+.symbol-and-name {
+  align-self: center;
+}
+
+.symbol {
+  font-size: 6em;
+}
+
 dl {
   margin: 0;
 }

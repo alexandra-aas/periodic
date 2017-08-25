@@ -1,8 +1,12 @@
 - data.periodic_table.each do |row|
-  %h3= row.number
-  %ul{ style: "border: 5px solid red;" }
+  %ul.periodic-row
     - row.columns.each do|column|
-      %li{ style: "background-color: yellow; border: 1px solid green;" }
-        %p= column.element.number
-        %p= column.element.name
-        %p= column.element.atomic_mass
+      %li.periodic-element
+        %p.number= column.element.number
+        .symbol-and-name
+          - if column.element.symbol
+            %p.symbol= column.element.symbol
+          - if column.element.name
+            %p.name= column.element.name
+        - if column.element.atomic_mass
+          %p.atomic-mass= column.element.atomic_mass
