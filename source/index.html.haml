@@ -1,5 +1,8 @@
-.elements
-  .element-row
-    - data.elements.each do |group|
-      - group.elements.each do |element|
-        = element.name
+- data.periodic_table.each do |row|
+  %h3= row.number
+  %ul{ style: "border: 5px solid red;" }
+    - row.columns.each do|column|
+      %li{ style: "background-color: yellow; border: 1px solid green;" }
+        %p= column.element.number
+        %p= column.element.name
+        %p= column.element.atomic_mass
