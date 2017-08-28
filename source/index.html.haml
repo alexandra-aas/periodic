@@ -1,8 +1,10 @@
-- data.periodic_table.each do |row|
-  %h3= row.number
-  %ul{ style: "border: 5px solid red;" }
-    - row.columns.each do|column|
-      %li{ style: "background-color: yellow; border: 1px solid green;" }
-        %p= column.element.number
-        %p= column.element.name
-        %p= column.element.atomic_mass
+- data.periodic_table.each do |table|
+  %div.row.flex.justify-between
+    - table.row.each do|row|
+      %ul.flex
+        - row.elements_group.each do |group|
+          %li.element.ba.b--dark-navy.tc
+            %p.light-navy.tl= group.element.number
+            %p{ class: "#{color_element(group.element.category)}"}= group.element.symbol
+            %p.light-navy= group.element.name
+            %p.white= group.element.atomic_mass

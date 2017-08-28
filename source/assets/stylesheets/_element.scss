@@ -1,0 +1,10 @@
+$row-width: 2160px;
+$element-count: 18;
+
+.row {
+  width: $row-width;
+}
+
+.element {
+  width: $row-width / $element-count;
+}
