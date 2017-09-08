@@ -1,0 +1,18 @@
+$categories: (
+  diatomic-nonmetal: $purple,
+  noble-gas: $lavender,
+  alkali-metal: $red,
+  metalloid: $teal,
+  polyatomic-nonmetal: $blue,
+  alkaline-earth-metal: $orange,
+  post-transition-metal: $green,
+  transition-metal: $yellow,
+  actinide: $pink,
+  lanthanide: $magenta
+);
+
+@each $category, $color in $categories  {
+  .#{$category} {
+    color: $color;
+  }
+}

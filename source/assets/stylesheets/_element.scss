@@ -1,22 +1,61 @@
 $row-width: 2160px;
 $element-count: 18;
 
-.row {
+.periodic-table {
+  margin: $xl-spacing;
+}
+
+.element-row {
   @include margin(null auto);
+  display: flex;
+  justify-content: space-between;
   width: $row-width;
 }
 
-.element {
-  position: relative;
-  width: $row-width / $element-count;
+.element-row-7 {
+  margin-top: $large-spacing;
 }
 
-.element-hover {
-  @include position(absolute, 0);
-  opacity: 0;
-  transition: opacity 300ms ease-in-out;
+.element-row-7,
+.element-row-8 {
+  justify-content: flex-end;
+}
 
-  .element:hover & {
-    opacity: 1;
+.element-group {
+  display: flex;
+
+  .element-row-6 &,
+  .element-row-8 & {
+    border-bottom: $base-border;
   }
+}
+
+.element {
+  border-top: $base-border;
+  border-left: $base-border;
+  padding: $base-spacing;
+  position: relative;
+  text-align: center;
+  width: $row-width / $element-count;
+
+  &:last-of-type {
+    border-right: $base-border;
+  }
+}
+
+.element__number {
+  color: $steel;
+  font-family: $monospace-font-family;
+  margin-bottom: $small-spacing;
+  text-align: left;
+}
+
+.element__name {
+  color: $steel;
+  margin-top: $small-spacing;
+}
+
+.element__mass {
+  color: $white;
+  margin-top: $base-spacing;
 }

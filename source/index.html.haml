@@ -1,13 +1,13 @@
-.pa5
-  - data.periodic_table.each do |table|
-    %div.row.flex.justify-between
+.periodic-table
+  - data.periodic_table.each_with_index do |table, index|
+    .element-row{ class: "element-row-#{index}" }
       - table.row.each do|row|
-        %ul.flex
+        %ul.element-group
           - row.elements_group.each do |group|
-            %li.element.ba.b--dark-navy.tc.f6.ph3
-              .element-hover{ class: "bg-#{color_element(group.element.category)}"}
-              %p.space-mono.light-navy.tl.mv3= group.element.number
-              %abbr.f1.six-caps{ class: "#{color_element(group.element.category)}"}= group.element.symbol
-              %p.sans-serif.light-navy.mt2.mb3= group.element.name.to_s.split.first
+            %li.element
+              .element__background
+              %p.element__number= group.element.number
+              %abbr.element__symbol{ class: "#{group.element.category.to_s.parameterize}" }= group.element.symbol
+              %p.element__name= group.element.name.to_s.split.first
               - if group.element.atomic_mass
-                %p.space-mono.white.mv3= group.element.atomic_mass.to_f.round(2)
+                %p.element__mass= group.element.atomic_mass.to_f.round(2)

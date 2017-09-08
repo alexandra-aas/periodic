@@ -1,0 +1,18 @@
+html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: $base-font-family;
+  font-smoothing: antialiased;
+  font-size: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+abbr {
+  font-family: $symbol-font-family;
+  font-size: $large-font-size;
+}
+
+p {
+  font-size: $small-font-size;
+  margin: 0;
+}

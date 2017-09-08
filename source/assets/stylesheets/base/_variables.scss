@@ -1,0 +1,40 @@
+// Font Families
+$base-font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+$symbol-font-family: 'Six Caps', sans-serif;
+$monospace-font-family: 'Space Mono', monospace;
+
+// Font Sizes
+$base-font-size: 1rem;
+$small-font-size: $base-font-size * 0.875;
+$large-font-size: $base-font-size * 3.75;
+
+// Base Colors
+$white: #fff;
+$navy: #202733;
+$light-navy: #313C4E;
+$steel: #92A1BB;
+
+// Category Colors
+$red: #F85959;
+$pink: #FE55A2;
+$magenta: #FA6BE4;
+$orange: #FF974F;
+$yellow: #FCEB3A;
+$green: #9BFF43;
+$teal: #7DFFDA;
+$blue: #55C8FF;
+$purple: #687DF7;
+$lavender: #BD77FF;
+
+// Backgrounds
+$base-background-color: $navy;
+
+// Borders
+$base-border-color: $light-navy;
+$base-border: 1px solid $base-border-color;
+
+// Spacing
+$base-spacing: 1rem;
+$small-spacing: $base-spacing * 0.625;
+$large-spacing: $base-spacing * 3.125;
+$xl-spacing: $base-spacing * 6.25;
