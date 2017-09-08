@@ -46,6 +46,11 @@ code, .code {
                monospace;
 }
 
+.space-mono {
+  font-family: 'Space Mono',
+               monospace;
+}
+
 
 /* Sans-Serif Typefaces */
 
@@ -56,6 +61,11 @@ code, .code {
 
 .avenir {
   font-family: 'avenir next', avenir,
+               sans-serif;
+}
+
+.six-caps {
+  font-family: 'Six Caps',
                sans-serif;
 }
 
@@ -97,4 +107,3 @@ code, .code {
   font-family: baskerville,
                serif;
 }
-

@@ -1,10 +1,13 @@
-- data.periodic_table.each do |table|
-  %div.row.flex.justify-between
-    - table.row.each do|row|
-      %ul.flex
-        - row.elements_group.each do |group|
-          %li.element.ba.b--dark-navy.tc
-            %p.light-navy.tl= group.element.number
-            %p{ class: "#{color_element(group.element.category)}"}= group.element.symbol
-            %p.light-navy= group.element.name
-            %p.white= group.element.atomic_mass
+.pa5
+  - data.periodic_table.each do |table|
+    %div.row.flex.justify-between
+      - table.row.each do|row|
+        %ul.flex
+          - row.elements_group.each do |group|
+            %li.element.ba.b--dark-navy.tc.f6.ph3
+              .element-hover{ class: "bg-#{color_element(group.element.category)}"}
+              %p.space-mono.light-navy.tl.mv3= group.element.number
+              %abbr.f1.six-caps{ class: "#{color_element(group.element.category)}"}= group.element.symbol
+              %p.sans-serif.light-navy.mt2.mb3= group.element.name.to_s.split.first
+              - if group.element.atomic_mass
+                %p.space-mono.white.mv3= group.element.atomic_mass.to_f.round(2)

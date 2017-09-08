@@ -2,9 +2,21 @@ $row-width: 2160px;
 $element-count: 18;
 
 .row {
+  @include margin(null auto);
   width: $row-width;
 }
 
 .element {
+  position: relative;
   width: $row-width / $element-count;
+}
+
+.element-hover {
+  @include position(absolute, 0);
+  opacity: 0;
+  transition: opacity 300ms ease-in-out;
+
+  .element:hover & {
+    opacity: 1;
+  }
 }
