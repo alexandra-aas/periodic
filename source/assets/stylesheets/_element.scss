@@ -33,9 +33,6 @@ $element-count: 18;
 .element {
   border-top: $base-border;
   border-left: $base-border;
-  padding: $base-spacing;
-  position: relative;
-  text-align: center;
   width: $row-width / $element-count;
 
   &:last-of-type {
@@ -43,19 +40,48 @@ $element-count: 18;
   }
 }
 
-.element__number {
+.element__content {
+  backface-visibility: hidden;
   color: $steel;
+  padding: $base-spacing;
+  position: relative;
+  text-align: center;
+  transition: transform $base-duration $base-timing;
+
+  &:hover {
+    box-shadow: $base-box-shadow;
+    color: $base-background-color;
+    transform: scale(1.1);
+    z-index: 100;
+  }
+}
+
+.element__background {
+  @include position(absolute, 0);
+  opacity: 0;
+  transition: opacity $base-duration $base-timing;
+  z-index: -1;
+
+  .element__content:hover & {
+    opacity: 1;
+  }
+}
+
+.element__number {
   font-family: $monospace-font-family;
   margin-bottom: $small-spacing;
   text-align: left;
 }
 
 .element__name {
-  color: $steel;
   margin-top: $small-spacing;
 }
 
 .element__mass {
   color: $white;
   margin-top: $base-spacing;
+
+  .element__content:hover & {
+    color: $base-background-color;
+  }
 }

@@ -5,9 +5,10 @@
         %ul.element-group
           - row.elements_group.each do |group|
             %li.element
-              .element__background
-              %p.element__number= group.element.number
-              %abbr.element__symbol{ class: "#{group.element.category.to_s.parameterize}" }= group.element.symbol
-              %p.element__name= group.element.name.to_s.split.first
-              - if group.element.atomic_mass
-                %p.element__mass= group.element.atomic_mass.to_f.round(2)
+              .element__content{ class: "#{group.element.category.to_s.parameterize}" }
+                .element__background
+                %p.element__number= group.element.number
+                %abbr.element__symbol= group.element.symbol
+                %p.element__name= group.element.name.to_s.split.first
+                - if group.element.atomic_mass
+                  %p.element__mass= group.element.atomic_mass.to_f.round(2)

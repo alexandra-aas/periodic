@@ -38,3 +38,10 @@ $base-spacing: 1rem;
 $small-spacing: $base-spacing * 0.625;
 $large-spacing: $base-spacing * 3.125;
 $xl-spacing: $base-spacing * 6.25;
+
+// Transitions
+$base-duration: 300ms;
+$base-timing: ease-in-out;
+
+// Box Shadows
+$base-box-shadow: 0 20px 100px shade($base-background-color, 40%);

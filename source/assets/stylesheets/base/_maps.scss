@@ -12,7 +12,19 @@ $categories: (
 );
 
 @each $category, $color in $categories  {
-  .#{$category} {
-    color: $color;
+  .element__background {
+    .#{$category} & {
+      background-color: $color;
+    }
+  }
+
+  .element__symbol {
+    .#{$category} & {
+      color: $color;
+    }
+
+    .element__content:hover & {
+      color: $base-background-color;
+    }
   }
 }
